@@ -5,136 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a93b758-a870-4c4f-a29d-dcd1b6ada96a" name="Changes" comment="[+] Initial">
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Generics and Collections/GMT20221230-075958_Recording_1366x768.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Generics and Collections/Generic and Collection.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Generics and Collections/Java OOP Generics and Collections Занятие #9 Generics and Co.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Generics and Collections/Основы ООП(Generics).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Map/Java OOP Map в Java 8 Дополнительное занятие #7 Map в Java 8.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Map/Java OOP Хэш таблицы. Map. Занятие #10 Хэш таблицы. Map..mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Map/Map.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Map/Основы ООП(Map).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Mutable vs Immutable/Java OOP Mutable and immutable objects.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Mutable vs Immutable/Java OOP Mutable vs Immutable объекты Дополнительное занятие.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Mutable vs Immutable/Изменяемые и неизменяемые объекты.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Абстрактные классы/Java OOP Абстрактные классы.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Абстрактные классы/Абстрактные классы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Java OOP Анонимные классы(anonymous inner classes).mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Java OOP Вложенные классы. Обобщающая лекция.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Java OOP Внутренние классы (inner classes).mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Java OOP Локальные внутренние классы(local inner classes).mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Java OOP Статические вложенные классы (static nested classes.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Анонимные классы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Вложенные классы Обобщающая лекци.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Внутренние классы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Локальные внутренние классы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Внутренние и вложенные классы/Статические внутренние классы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP  Домашнее задание.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP  Конструкторы.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP  Порядок описания членов класса.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP  Сокрытие.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Вступление в ООП.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Использование ссылок пользовательского типа.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Модификатор static.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Модификаторы доступа.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Описание классов и создание объектов на их основе.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Практическое занятие 1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Практическое занятие 2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Практическое занятие 3.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Практическое занятие 4.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Ссылка this.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Java OOP Что определяет класс в Java.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Вступление в ООП/Лекция 1.Основы ООП.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Зачем понадобились интерфейсы.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Интересные возможности применения Comparator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Использование интерфейсов в стандартной библиотеке.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Как объявлять интерфейсы.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Особенности интерфейсов.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Практическое занятие 1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Java OOP Практическое занятие 2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/practice 1.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/practice 2.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Интерфейсы/Интерфейсы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Класс Object/GMT20221228-160003_Recording_1366x768.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Класс Object/Java OOP java.lang.Object Занятие #8 Object.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Класс Object/Основы ООП(java.lang.Object).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Класс Object/Суперкласс Object.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/GMT20221223-160038_Recording_1366x768.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/Java OOP Многопоточное программирование (Часть 1) Занятие #6.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/Java OOP Многопоточное программирование (Часть 2) Занятие #7.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/Java OOP Многопоточное программирование (альтернативная вер.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/Основы ООП(Многопоточное программирование-I).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Многопоточное программирование/Основы ООП(Многопоточное программирование-II).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Базовый класс Object.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Восходящее и нисходящее преобразование.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Домашнее задание.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Как реализовано наследование. Лестница конструкторо.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Ключевое слово final.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Наследование.Вступление.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Поиск и переопределение методов.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Практическое занятие 1.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Практическое занятие 2.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Скрытие полей и статических методов.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Java OOP Явный вызов метода суперкласса с использованием sup.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Наследование/Наследование.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Перечисления (Enum)/Java OOP Enum.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Перечисления (Enum)/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Полиморфизм/Java OOP Полиморфизм.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Полиморфизм/Полиморфизм.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Потоки ввода вывода/Java OOP Потоки ввода-вывода Занятие #5 Потоки ввода-вывода.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Потоки ввода вывода/Основы ООП(Потоки Ввода-Вывода).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Потоки ввода вывода/Потоки ввода вывода.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Блок с гарантированным завершением.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Домашнее задание.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Обработка исключений.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Оператор throw.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Оператор throws.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Практическая работа.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Связанные исключения.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Java OOP Создание пользовательских исключений.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/practical_code.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с исключениями/Работа с исключениями.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с сетью/GMT20230106-160011_Recording_1920x1080.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с сетью/Java OOP Работа с сетью Занятие #11 Работа с сетью.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с сетью/Основы ООП(Сетевое программирование).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Работа с сетью/Работа с сетью.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Optional.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP private методы в интерфейсах.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Лямбда функции.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Методы по умолчанию в интерфейсах.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональные интерфейсы. Ссылки на методы.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс BinaryOperator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Comparable.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Comparator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Consumer.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Function.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Predicate.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс Supplier.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Java OOP Функциональный интерфейс UnaryOperator.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Optional.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/private методы в интерфейсах.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Лямбда функции.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Методы по умолчанию в интерфейсах.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональные интерфейсы. Ссылки на методы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс BinaryOPerator.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Comparable.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Comparator.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Consumer.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Function.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Predicate.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс Supplier.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaOOP/Lesson/Функциональные интерфейсы/Функциональный интерфейс UnaryOperator.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/GMT20221026-155949_Recording_1920x1080.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/info/5-klas-matematika-merzljak-2018.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/info/Алгоритмы.url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/info/Лекции по Java Core - Google Документи.URL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 1. Сведения о языке.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 2. Переменные.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 3. Условные операторы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 4. Циклы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 5. Массивы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 6. Строки.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 7. Методы.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaStart/Lesson/Лекция 8. Работа с файлами.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673287431037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[+] Initial">
+      <created>1673287820467</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673287820467</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
