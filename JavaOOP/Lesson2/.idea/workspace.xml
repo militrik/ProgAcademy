@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69833627-e167-495e-b984-3011a67693ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/ProgAcademy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeForces/CodeForces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CodeForces/PSU/PSU.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Codewars/Codewars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson6/Lesson6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaStart/.idea/JavaStart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaStart/JavaStart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaStart/Lesson4/Lesson4.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2JVRnqvfrTq1IxQVWqBz65BR5AM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69833627-e167-495e-b984-3011a67693ce" name="Changes" comment="" />
+      <created>1672161433690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672161433690</updated>
+    </task>
+    <servers />
+  </component>
+</project>
