@@ -5,17 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48c704d3-bf5b-4656-9741-cba6a03dc26a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVStringConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVtoStringConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/FileDataConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/Translate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVConverterInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVtoMapEntryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/TranslatorLangLang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lesson10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/A_good_boy_tranlated.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/EN_UA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson10/EN_UA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/CSVStringConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/CSVtoStringConverter$CSVStringConverterException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/CSVtoStringConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/FileDataConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/Translate$GroupFileStorageException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/out/production/Lesson10/homework/translator/Translate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVStringConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/src/homework/translator/CSVtoStringConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/src/homework/translator/FileDataConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/FileDataConverterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/src/homework/translator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson10/src/homework/translator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson10/src/homework/translator/Translate.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,15 +48,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/militrik/Документи/ProgAcademy/JavaOOP/Lesoon9/src",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/militrik/Документи/ProgAcademy/JavaOOP/Lesoon9/src&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />

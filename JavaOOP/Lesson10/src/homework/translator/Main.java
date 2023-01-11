@@ -6,7 +6,10 @@ import java.io.File;
 public class Main {
     public static void main(String[] args) {
 
-        Translate enua = new Translate(new File("A_good_boy.txt"));
-        enua.translatorENUA();
+        TranslatorLangLang enua = new TranslatorLangLang(new File("A_good_boy.txt"), TranslatorLangLang.Langs.ENUA );
+        enua.translator();
+
+        TranslatorLangLang uaen = new TranslatorLangLang(enua.getFileOut(), TranslatorLangLang.Langs.UAEN );
+        uaen.translator();
     }
 }

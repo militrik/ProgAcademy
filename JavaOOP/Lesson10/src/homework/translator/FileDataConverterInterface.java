@@ -2,7 +2,7 @@ package homework.translator;
 
 import java.io.File;
 
-public interface FileDataConverter {
+public interface FileDataConverterInterface {
 
     Object readFileToData(File file);
 
