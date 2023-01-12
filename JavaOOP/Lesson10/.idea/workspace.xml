@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f5d58-27f0-43e6-ad44-496dd92f17c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/homework/translator/CSVConverterInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/translator/CSVtoMapEntryConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/translator/TranslatorLangLang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lesoon9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesoon9/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="461f5d58-27f0-43e6-ad44-496dd92f17c0" name="Changes" comment="[+] EnUa and UaEn TranslatorLangLang">
+      <change afterPath="$PROJECT_DIR$/src/homework/translator/Dictionary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A_good_boy_tranlated.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/EN_UA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/EN_UA.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/CSVStringConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/CSVtoStringConverter$CSVStringConverterException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/CSVtoStringConverter.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Translate$GroupFileStorageException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Translate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/translator/CSVStringConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/translator/CSVtoStringConverter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/translator/FileDataConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/translator/FileDataConverterInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/TranslatorLangLang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/TranslatorLangLang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/translator/CSVConverterInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/translator/CSVtoMapEntryConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/translator/FileDataConverterInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/translator/FileDataConverterInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homework/translator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/translator/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/translator/Translate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/translator/TranslatorLangLang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/translator/TranslatorLangLang.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,22 +66,36 @@
       <option name="presentableId" value="Default" />
       <updated>1672851395418</updated>
     </task>
+    <task id="LOCAL-00001" summary="[+] EnUa and UaEn TranslatorLangLang">
+      <created>1673467917369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673467917369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[+] EnUa and UaEn TranslatorLangLang">
+      <created>1673467925897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673467925897</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/translator/TranslatorLangLang.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/homework/translator/TranslatorLangLang.java</url>
-          <line>82</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[+] EnUa and UaEn TranslatorLangLang" />
+    <option name="LAST_COMMIT_MESSAGE" value="[+] EnUa and UaEn TranslatorLangLang" />
   </component>
 </project>

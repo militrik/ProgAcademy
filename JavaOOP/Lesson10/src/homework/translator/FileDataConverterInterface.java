@@ -6,6 +6,6 @@ public interface FileDataConverterInterface {
 
     Object readFileToData(File file);
 
-    File writeDataToFile(Object object);
+    void writeDataToFile(Object object, File File);
 
 }

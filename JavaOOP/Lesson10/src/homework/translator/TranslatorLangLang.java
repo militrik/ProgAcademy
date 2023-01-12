@@ -2,18 +2,15 @@ package homework.translator;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
-import java.util.*;
+import java.util.Map;
 
 public class TranslatorLangLang implements FileDataConverterInterface {
 
-    private static File dictionaryENUAFile = new File("EN_UA.csv");
-    private static File dictionaryUAENFile = new File("UA_EN.csv");
-    private Langs direction;
-
     private File fileIn;
     private File fileOut;
+    private Dictionary.Langs direction;
 
-    public TranslatorLangLang(File fileIn, Langs direction) {
+    public TranslatorLangLang(File fileIn, Dictionary.Langs direction) {
         this.fileIn = fileIn;
         this.direction = direction;
     }
@@ -46,30 +43,21 @@ public class TranslatorLangLang implements FileDataConverterInterface {
         return text;
     }
 
+
     @Override
-    public File writeDataToFile(Object object) {
+    public void writeDataToFile(Object object, File fileOut) {
         String text = (String) object;
-        String fileOutTitle = (fileIn.getName().split("[.]"))[0];
-        String fileOutExt = (fileIn.getName().split("[.]"))[1];
-        String fileOutName = fileOutTitle + "_" + direction.toString() + "." + fileOutExt;
-        File fileOut = new File(fileOutName);
+
         try (Writer writer = new FileWriter(fileOut, StandardCharsets.UTF_8)) {
             writer.write(text);
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
-        return fileOut;
     }
 
     public void translator() {
+        Map<String, String> dictionary = new Dictionary().getDictionary(direction);
         String textIn = readFileToData(fileIn);
-        File dictionaryFile = new File("");
-        switch (direction) {
-            case ENUA -> dictionaryFile = dictionaryENUAFile;
-            case UAEN -> dictionaryFile = dictionaryUAENFile;
-        }
-        Map<String, String> dictionary = new CSVtoMapEntryConverter().readFileToData(dictionaryFile);
-
         String[] words = textIn.split("\\W+");
         String textOut = "";
         for (String word : words) {
@@ -81,12 +69,14 @@ public class TranslatorLangLang implements FileDataConverterInterface {
             }
         }
         System.out.println(textIn + textOut + System.lineSeparator());
-        fileOut = writeDataToFile(textOut);
+
+        String fileOutTitle = (fileIn.getName().split("[.]"))[0];
+        String fileOutExt = (fileIn.getName().split("[.]"))[1];
+        String fileOutName = fileOutTitle + "_" + direction.toString() + "." + fileOutExt;
+        fileOut = new File(fileOutName);
+        writeDataToFile(textOut, fileOut);
     }
 
-    public enum Langs {
-        ENUA, UAEN
-    }
 
     public static class GroupFileStorageException extends Exception {
         public GroupFileStorageException(String message) {
