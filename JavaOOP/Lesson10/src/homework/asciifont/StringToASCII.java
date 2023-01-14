@@ -60,7 +60,7 @@ public class StringToASCII extends ASCIIfont {
     }
 
     private FontTable getFontTable() {
-        for (FontTable fontTable : fontTables
+        for (FontTable fontTable : getFontTables()
         ) {
             if (fontTable.getFont().equals(this.font)) {
                 return fontTable;
