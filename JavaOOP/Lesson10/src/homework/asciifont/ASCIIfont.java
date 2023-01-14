@@ -321,10 +321,11 @@ public class ASCIIfont {
             0x04, 0x00, 0x00, 0x20, 0x00, 0x60, 0x00, 0x40, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00,  // Code for char ~
             0x01, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00   // Code for char 
     };
-    private FontTable ubuntu9x11 = new FontTable(Fonts.UBUNTU9X11, Ubuntu9x11, 9, 11);
-    private FontTable segoe_script11x16 = new FontTable(Fonts.SEGOE_SCRIPT11X16, Segoe_Script11x16, 11, 16);
-    private FontTable gost7x13 = new FontTable(Fonts.GOST7X13, Gost7x13, 7, 13);
-    public FontTable[] fontTables = {ubuntu9x11, segoe_script11x16, gost7x13};
+
+    public FontTable[] fontTables = {
+            new FontTable(Fonts.UBUNTU9X11, Ubuntu9x11, 9, 11),
+            new FontTable(Fonts.SEGOE_SCRIPT11X16, Segoe_Script11x16, 11, 16),
+            new FontTable(Fonts.GOST7X13, Gost7x13, 7, 13)};
 
     public enum Fonts {
         UBUNTU9X11, SEGOE_SCRIPT11X16, GOST7X13

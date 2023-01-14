@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="461f5d58-27f0-43e6-ad44-496dd92f17c0" name="Changes" comment="[+] Lesson 10. ASCII art generator from string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework/asciifont/FontDecoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/asciifont/ASCIIfont.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework/asciifont/ASCIIfont.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673689495591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[+] Lesson 10. ASCII art generator from string">
+      <created>1673690242059</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673690242059</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
