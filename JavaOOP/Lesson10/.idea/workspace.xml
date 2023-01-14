@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="461f5d58-27f0-43e6-ad44-496dd92f17c0" name="Changes" comment="[+] Add Dictionary.java">
-      <change afterPath="$PROJECT_DIR$/src/homework/asciifont/ASCIIfont.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/asciifont/FontDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/asciifont/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/homework/asciifont/StringToASCII.java" afterDir="false" />
+    <list default="true" id="461f5d58-27f0-43e6-ad44-496dd92f17c0" name="Changes" comment="[+] Lesson 10. ASCII art generator from string">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/TranslatorLangLang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Lesson10/homework/translator/TranslatorLangLang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework/asciifont/FontDecoder.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673551549933</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[+] Lesson 10. ASCII art generator from string">
+      <created>1673689495591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673689495591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -108,7 +110,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[+] EnUa and UaEn TranslatorLangLang" />
     <MESSAGE value="[+] Add Dictionary.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="[+] Add Dictionary.java" />
+    <MESSAGE value="[+] Lesson 10. ASCII art generator from string" />
+    <option name="LAST_COMMIT_MESSAGE" value="[+] Lesson 10. ASCII art generator from string" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
