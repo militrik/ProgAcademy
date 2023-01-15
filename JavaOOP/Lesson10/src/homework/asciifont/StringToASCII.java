@@ -22,6 +22,25 @@ public class StringToASCII extends ASCIIfont {
             prepareString.add(decodedFontArray.get(charArray[i]));
         }
 
+/*        Iterator<String> rowsIterator = prepareString.listIterator().next().listIterator();
+        while (rowsIterator.hasNext()) {
+            Iterator<List<String>> columsIterator = prepareString.listIterator();
+            while (columsIterator.hasNext()){
+                textOut += rowsIterator.next();
+                System.out.println(textOut);
+            }
+            textOut += System.lineSeparator();
+        }*/
+
+/*        ListIterator<List<String>> rowsIterator = prepareString.listIterator();
+        for (; rowsIterator.hasNext(); ) {
+            ListIterator<List<String>> columsIterator = prepareString.listIterator();
+            for (; columsIterator.hasNext(); ) {
+                textOut += columsIterator.next();
+            }
+            textOut += System.lineSeparator();
+        }*/
+
         for (int i = 0; i < prepareString.get(0).size(); i++) {
             for (int j = 0; j < prepareString.size(); j++) {
                 textOut += prepareString.get(j).get(i);
@@ -44,7 +63,7 @@ public class StringToASCII extends ASCIIfont {
 
             char[][] oneCharacterArray = new char[getFontTable().getWeight()][getFontTable().getHeight()];
             for (int j = 0; j < oneCharacterCode.length; j += 2) {
-                int oneVerticalLine = oneCharacterCode[j] + oneCharacterCode[j + 1] * (0xFF + 1);
+                int oneVerticalLine = oneCharacterCode[j] + oneCharacterCode[j + 1] * (Byte.MAX_VALUE - Byte.MIN_VALUE + 1);
                 for (int k = 0; k < getFontTable().getHeight(); k++) {
                     if (oneVerticalLine % 2 == 0) {
                         oneCharacterArray[j / 2][k] = ' ';

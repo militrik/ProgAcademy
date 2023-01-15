@@ -9,7 +9,7 @@ public class Main {
         StringToASCII ascii2 = new StringToASCII(ASCIIfont.Fonts.SEGOE_SCRIPT11X16, '*');
         System.out.println(ascii2.convertStringtoASCII("Segoe font?"));
 
-        StringToASCII ascii3 = new StringToASCII(ASCIIfont.Fonts.UBUNTU9X11, '8');
+        StringToASCII ascii3 = new StringToASCII(ASCIIfont.Fonts.UBUNTU9X11, '$');
         System.out.println(ascii3.convertStringtoASCII("Ubuntu font!"));
     }
 }
