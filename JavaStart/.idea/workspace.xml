@@ -9,7 +9,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1823a592-d5ab-4048-9fa4-21bd5164ce9b" name="Changes" comment="" />
+    <list default="true" id="1823a592-d5ab-4048-9fa4-21bd5164ce9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaOOP/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaOOP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/homework/delstring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/homework/removecats/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/homework/removecats/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/homework/removefrommap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/predicate/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaOOP/LessonFI/src/predicate/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +30,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,7 +49,7 @@
     "jdk.selected.JAVA_MODULE": "17",
     "last.edited.regexp": "Sample Text",
     "last_directory_selection": "D:/ProgAcademy/JavaStart/Lesson6/src/sample",
-    "last_opened_file_path": "D:/ProgAcademy",
+    "last_opened_file_path": "/home/militrik/Документи/JavaSduding/ProgAcademy/JavaStart",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",

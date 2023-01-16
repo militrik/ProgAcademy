@@ -4,14 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="977b042b-ea60-4f41-a9f9-51f41cc075d1" name="Changes" comment="[+] Initial mass commit" />
+    <list default="true" id="977b042b-ea60-4f41-a9f9-51f41cc075d1" name="Changes" comment="[+] Initial mass commit">
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/homework/delstring/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/homework/removecats/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/homework/removecats/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/homework/removefrommap/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/predicate/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFI/src/predicate/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonFunction/src/homework/simplenums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LessonFunction/src/homework/simplenums/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Lesson8" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -25,6 +33,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/militrik/Документи/JavaSduding/ProgAcademy/JavaStart",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
