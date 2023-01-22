@@ -1,3 +1,5 @@
+package homework.odds;
+
 import java.util.List;
 import java.util.function.Consumer;
 
