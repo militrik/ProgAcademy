@@ -1,5 +1,6 @@
 package homework.catcompareto;
 
+import java.util.Comparator;
 import java.util.Objects;
 
 public class Cat implements Comparable<Cat> {
@@ -55,10 +56,11 @@ public class Cat implements Comparable<Cat> {
         if (o == null) {
             throw new NullPointerException();
         }
-        int temp = Integer.compare(this.getName().length(), o.getName().length());
-        if (temp != 0)
-            return temp;
-        else
-            return Integer.compare(this.getAge(), o.getAge());
+            Comparator<Cat> nameLengthCmp = Comparator.comparing(cat -> cat.getName().length());
+            Comparator<Cat> nameCmp = Comparator.comparing(Cat::getName);
+            Comparator<Cat> ageComp = Comparator.comparing(Cat::getAge);;
+            Comparator<Cat> result =  nameLengthCmp.thenComparing(ageComp).thenComparing(nameCmp);
+            return result.compare(this,o);
+
     }
 }

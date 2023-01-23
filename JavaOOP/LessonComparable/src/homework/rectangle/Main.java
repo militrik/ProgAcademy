@@ -1,5 +1,6 @@
 package homework.rectangle;
 
+import java.awt.*;
 import java.util.Arrays;
 
 public class Main {
