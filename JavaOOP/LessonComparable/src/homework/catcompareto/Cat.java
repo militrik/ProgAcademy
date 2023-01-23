@@ -56,11 +56,12 @@ public class Cat implements Comparable<Cat> {
         if (o == null) {
             throw new NullPointerException();
         }
-            Comparator<Cat> nameLengthCmp = Comparator.comparing(cat -> cat.getName().length());
-            Comparator<Cat> nameCmp = Comparator.comparing(Cat::getName);
-            Comparator<Cat> ageComp = Comparator.comparing(Cat::getAge);;
-            Comparator<Cat> result =  nameLengthCmp.thenComparing(ageComp).thenComparing(nameCmp);
-            return result.compare(this,o);
+        Comparator<Cat> nameLengthCmp = Comparator.comparing(cat -> cat.getName().length());
+        Comparator<Cat> nameCmp = Comparator.comparing(Cat::getName);
+        Comparator<Cat> ageComp = Comparator.comparing(Cat::getAge);
+        Comparator<Cat> result = nameLengthCmp.thenComparing(ageComp).thenComparing(nameCmp);
+        int rrr =  result.compare(this, o);
+        return rrr;
 
     }
 }
