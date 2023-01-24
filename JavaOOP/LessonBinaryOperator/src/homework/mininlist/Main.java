@@ -3,6 +3,7 @@ package homework.mininlist;
 
 import java.util.*;
 import java.util.function.BinaryOperator;
+import java.util.function.Consumer;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,43 +11,26 @@ public class Main {
         List<Integer> list1 = new ArrayList<>(List.of(5, 0, 3, 4));
         List<Integer> list2 = new ArrayList<>(List.of(10, -2, 5));
 
-        List<String> list3 = new ArrayList<>(List.of("Hey", "Hello", "Java", "world"));
-        List<String> list4 = new ArrayList<>(List.of("55555", "44444", "666666"));
+        List<String> list3 = new ArrayList<>(List.of("Hello", "Java", "world"));
+        List<String> list4 = new ArrayList<>(List.of("55555", "4444", "333"));
 
-
-        System.out.println(minNumber(list1, list2));
-        System.out.println(minNumber(list3, list4));
-    }
-
-    public static <T> List<T> minNumber(List<T> a, List<T> b) {
-        T mina = a.get(0);
-        for (int i = 1; i < a.size(); i++) {
-            if (((Comparable<T>) a.get(i - 1)).compareTo(a.get(i)) < 0) {
-                mina = a.get(i - 1);
-            } else {
-                mina = a.get(i);
-            }
-        }
-        T minb = b.get(0);
-        for (int i = 1; i < b.size(); i++) {
-            if (((Comparable<T>) b.get(i - 1)).compareTo(b.get(i)) < 0) {
-                minb = b.get(i - 1);
-            } else {
-                minb = b.get(i);
-            }
-        }
-        BinaryOperator<T> bin = (y, z) -> {
-            if (((Comparable<T>) y).compareTo((T) z) < 0) {
-                return y;
-            } else {
-                return z;
-            }
+        Comparator<Object> comp = (o1, o2) -> {
+            return 1;//o1.compareTo(o2);
         };
-        if (bin.apply(mina, minb) == mina) {
-            return a;
-        } else {
-            return b;
-        }
+/*        BinaryOperator<List> minInList = (l1, l2) -> {
+            Object min1= Collections.min(l1);
+            Object min2= Collections.min(l2);
+            if(min1>min2)
+                return 1;
+            if(min1<min2)
+                return -1;
+            return  0;
 
+        };*/
+
+        System.out.println(BinaryOperator.minBy(comp).apply(list1, list2));
+        System.out.println(BinaryOperator.minBy(comp).apply(list3, list4));
     }
+
+
 }
