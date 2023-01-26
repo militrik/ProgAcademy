@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67cf1f8e-1cbd-43fb-81db-96a7cab14b81" name="Changes" comment="[+] LessonStreamApi2 All">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LessonStreamAPI3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LessonStreamAPI3/src/homework/rockstars/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LessonStreamAPI3/src/homework/rockstars/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LessonStreamAPI3/src/homework/txtfiles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LessonStreamAPI3/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LessonStreamAPI3/src/homework/chcecksite/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +64,7 @@
       <updated>1674649506402</updated>
       <workItem from="1674649507559" duration="16076000" />
       <workItem from="1674678023734" duration="1650000" />
+      <workItem from="1674749859741" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="[+] LessonStreamApi2 All">
       <created>1674665932160</created>
