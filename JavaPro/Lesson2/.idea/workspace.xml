@@ -10,49 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7413bf-af89-42cd-a5bb-da7ddf88f029" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lesson1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson1/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lesson1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson2/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson2/CustomerViewServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/customers.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/MavenTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/src/main/java/DiskExplorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/MavenTest/src/test/java/Tests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/src/main/java/com/example/fxtry/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/src/main/java/com/example/fxtry/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../myTry/fxtry/src/main/resources/com/example/fxtry/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lesson2/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson2/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/lesson2/CustomerViewServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/lesson2/CustomerViewServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +170,8 @@
       <workItem from="1676110291730" duration="9151000" />
       <workItem from="1676129663664" duration="13070000" />
       <workItem from="1676143014300" duration="10590000" />
+      <workItem from="1676223495573" duration="22670000" />
+      <workItem from="1676382528525" duration="3346000" />
     </task>
     <servers />
   </component>
@@ -220,8 +183,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/example/lesson2/CustomerViewServlet.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="30" />
+          <line>70</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/lesson2/CustomerViewServlet.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="45" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

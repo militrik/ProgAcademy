@@ -10,9 +10,11 @@
 <br/>
 <a href="/getCustomers">Get customers unsorted</a>
 <br/>
-<a href="/getCustomers?sortingMethod=name">Get customers sorted by name</a>
+<a href="/getCustomers?sortBy=getName">Get customers sorted by name</a>
 <br/>
-<a href="/getCustomers?sortingMethod=name&sortingMethod=gender">Get customers sorted by surname and gender</a>
+<a href="/getCustomers?sortBy=getName&sortBy=getAge">Get customers sorted by name and age</a>
+<br/>
+<a href="/getCustomers?sortBy=getGender&sortBy=getId">Get customers sorted by gender and id</a>
 <br/>
 </body>
 </html>

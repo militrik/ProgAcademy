@@ -7,6 +7,7 @@ public class Customer {
     private Gender gender;
     private int id;
 
+
     public enum Gender {
         MALE, FEMALE, OTHER;
     }
