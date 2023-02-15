@@ -1,0 +1,25 @@
+table, td {
+    text-align: center;
+    padding: 2px;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th {
+    text-align: center;
+    padding: 2px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: gray;
+}
+thead{
+    background-color: #48D1CC;
+}
+
+
+.number{
+    background-color: #48D1CC;
+}
+tbody>tr:hover{
+     color: #ffffff;
+     background-color: #000000;
+}

@@ -7,7 +7,8 @@
 <head>
     <title>Title</title>
 </head>
-<style>
+<link href="css/style.css" rel="stylesheet">
+<%--<style>
     table, td {
         text-align: center;
         padding: 2px;
@@ -21,7 +22,7 @@
         border-collapse: collapse;
         background-color: gray;
     }
-</style>
+</style>--%>
 <body>
 
 <%
