@@ -1,36 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="63bdeb60-0118-4dce-9d83-9252b664348b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Reflection1/Reflection1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/hmw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hmw1/src/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SaveTo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../table_servlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../table_servlet" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2M6DKunZLestqOaQGEOD5OaVV91" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +63,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677079081799</updated>
+      <workItem from="1677079082853" duration="11772000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NoSuchFieldException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
