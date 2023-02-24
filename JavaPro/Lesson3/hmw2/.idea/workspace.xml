@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63bdeb60-0118-4dce-9d83-9252b664348b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SaveTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Saver.java" afterDir="false" />
+    <list default="true" id="63bdeb60-0118-4dce-9d83-9252b664348b" name="Changes" comment="[+] Pro 3.2 Reflection">
+      <change afterPath="$PROJECT_DIR$/../hmw3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/hmw3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/object.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hmw3/src/Save.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lesson2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lesson2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../table_servlet" beforeDir="false" afterPath="$PROJECT_DIR$/../../table_servlet" afterDir="false" />
     </list>
@@ -37,19 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
@@ -63,8 +68,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677079081799</updated>
-      <workItem from="1677079082853" duration="11772000" />
+      <workItem from="1677079082853" duration="12187000" />
+      <workItem from="1677092582948" duration="778000" />
+      <workItem from="1677174064623" duration="7000" />
     </task>
+    <task id="LOCAL-00001" summary="[+] Pro 3.2 Reflection">
+      <created>1677091548616</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677091548616</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +87,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="[+] Pro 3.2 Reflection" />
+    <option name="LAST_COMMIT_MESSAGE" value="[+] Pro 3.2 Reflection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
