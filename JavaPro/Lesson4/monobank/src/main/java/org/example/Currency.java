@@ -10,7 +10,7 @@ public class Currency {
     private Double rateBuy;
     private Double rateCross;
 
-    static Map<String, Integer> countryCurrencyCodes = Map.<String, Integer>ofEntries(
+    static final Map<String, Integer> countryCurrencyCodes = Map.<String, Integer>ofEntries(
             Map.entry("AFN", 971),
             Map.entry("ALL", 8),
             Map.entry("DZD", 12),
