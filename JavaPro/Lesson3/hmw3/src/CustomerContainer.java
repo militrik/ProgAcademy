@@ -1,3 +1,5 @@
+import java.io.IOException;
+import java.io.ObjectInputStream;
 import java.lang.reflect.Field;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -10,7 +12,9 @@ public class CustomerContainer {
     public CustomerContainer() {
     }
 
-    public CustomerContainer serialize(Customer object) throws IllegalAccessException {
+    public CustomerContainer serialize(Object object) throws IllegalAccessException, SecurityException {
+
+
 
         Field[] fields = object.getClass().getDeclaredFields();
         for (Field field : fields
@@ -18,10 +22,15 @@ public class CustomerContainer {
             Map<String, String> stringMap = new HashMap<>();
             if (field.isAnnotationPresent(Save.class)) {
                 field.setAccessible(true);
-                stringMap.put("fieldName", field.getName());
-                stringMap.put("fieldType", field.getGenericType().getTypeName());
-                stringMap.put("fieldValue", field.get(object).toString());
-                list.add(stringMap);
+                if (field.getGenericType()!=Object.class) {
+                    stringMap.put("fieldType", field.getGenericType().getTypeName());
+                    stringMap.put("fieldName", field.getName());
+                    stringMap.put("fieldValue", field.get(object).toString());
+                    list.add(stringMap);
+                }
+                else {
+                    serialize(field);
+                }
             }
         }
         return this;
